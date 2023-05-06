@@ -38,3 +38,4 @@ YANVR Objectives:
   - I will gladly accept donations.
 
 
+YANVR is written in TypeScript and uses [GStreamer](https://gstreamer.freedesktop.org/) for all media processing
