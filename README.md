@@ -39,3 +39,8 @@ YANVR Objectives:
 
 
 YANVR is written in TypeScript and uses [GStreamer](https://gstreamer.freedesktop.org/) for all media processing
+
+
+# Helpful:
+  - https://khalilstemmler.com/blogs/typescript/node-starter-project/
+  - https://github.com/TypeStrong/ts-node#visual-studio-code
