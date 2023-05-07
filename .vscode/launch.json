@@ -10,7 +10,7 @@
         "ts-node/register/transpile-only"
       ],
       "args": ["src/index.ts"],
-      "cwd": "${workspaceRoot}/backend",
+      "cwd": "${workspaceRoot}/apps/backend",
       "internalConsoleOptions": "openOnSessionStart",
       "skipFiles": ["<node_internals>/**", "node_modules/**"]
     }
