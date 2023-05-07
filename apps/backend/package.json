@@ -28,7 +28,7 @@
   "homepage": "https://github.com/crossan007/YANVR#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "gstreamer-superficial": "^1.7.4",
+    "gstreamer-superficial": "^1.8.0",
     "loglevel": "^1.8.1",
     "rxjs": "^7.8.1"
   },

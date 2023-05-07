@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../node-gstreamer-superficial"
+		},
+		{
+			"path": "../docker-wyze-bridge"
 		}
 	],
 	"settings": {}
