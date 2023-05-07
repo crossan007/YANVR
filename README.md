@@ -44,3 +44,8 @@ YANVR is written in TypeScript and uses [GStreamer](https://gstreamer.freedeskto
 # Helpful:
   - https://khalilstemmler.com/blogs/typescript/node-starter-project/
   - https://github.com/TypeStrong/ts-node#visual-studio-code
+
+
+
+# Requirements:
+- choco install windows-sdk-10.0
